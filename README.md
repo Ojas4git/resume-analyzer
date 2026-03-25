@@ -30,5 +30,6 @@ This project is a web-based AI application that analyzes resume skills and recom
 streamlit run app.py
 ```
 
-## Live Demo
-https://resume-analyzer-o56tsrzgbucfonadwrycpz.streamlit.app/
+## 🔗 Live Demo
+Click here to use the app:  
+Open Resume Analyzer : (https://resume-analyzer-o56tsrzgbucfonadwrycpz.streamlit.app/)
